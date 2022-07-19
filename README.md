@@ -2,9 +2,8 @@
 This check ilst is created when i callad for the for the interview at MCB for the post of Information security consultant
 
 
-    First Panel Interview Key Points: 
+First Panel Interview Key Points: 
 ========================================
-
     What is cyber security..? Is the any difference between cyber security and information security..? 
 
     What is VA and PT..? 
@@ -29,7 +28,7 @@ This check ilst is created when i callad for the for the interview at MCB for th
 
  
 
-    Second Panel Interview Key Points: 
+Second Panel Interview Key Points: 
  ========================================
 
     Is there any role of development in cyber security..? Me: not too much, but python or ruddy is back bone in cyber security. 
@@ -46,9 +45,9 @@ This check ilst is created when i callad for the for the interview at MCB for th
 
     What is WAF..? What is the difference between network level firewall and WAF..? 
 
-    You are the security consultant, and I am pure IT guy. I am blank mean don’t have any knowledge about cyber security. You are hired to complete the security assessment of newly developed application before deployed it on server. What will be your requirements..? 
+    You are the security consultant, and I am pure IT guy. I am blank mean don’t have any knowledge about cyber security. You are hired to complete the             security assessment of newly developed application before deployed it on server. What will be your requirements..? 
 
-Answer: Requirements  
+    Answer: Requirements  
 
     First of all, access to that application. 
 
@@ -71,7 +70,6 @@ Answer: Requirements
         Integrity -> end to end encryption ensure the "I". E.g. Implement SSL/TLS during data transmission. 
 
         Availability -> the replica of servers should be available in any emergency. Means (PR Site and DR site servers) 
-
      
 
     What is penetration testing methodologies..? 
@@ -90,7 +88,7 @@ Answer: Requirements
 
     What is penetration testing types..? 
 
-Answer: Types are Six 
+    Answer: Types are Six 
 
     Web application penetration testing 
 
@@ -106,7 +104,7 @@ Answer: Types are Six
 
  
 
-Note: interviewer actually asking for penetration testing approaches which are: 
+    Note: interviewer actually asking for penetration testing approaches which are: 
 
     Black Box approach 
 
@@ -126,7 +124,7 @@ Note: interviewer actually asking for penetration testing approaches which are:
 
  
 
-    Third Panel Interview Key Points (CISO): 
+Third Panel Interview Key Points (CISO): 
 ========================================
         Introduction 
 
