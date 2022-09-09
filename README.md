@@ -1,4 +1,4 @@
-# Interview-Questions-at-banking-Secret
+# Interview-Questions-at-banking-sector
 This check ilst is created when i callad for the for the interview at MCB for the post of Information security consultant
 
 
